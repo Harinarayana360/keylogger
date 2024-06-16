@@ -52,17 +52,17 @@ You can do the same form of investigation with browser extensions. If there are 
 
 Here is how to access your extensions in some of the most common browsers: 
 
-Safari: Choose "Preferences" in the Safari menu and click on "Extensions."
+->Safari: Choose "Preferences" in the Safari menu and click on "Extensions."
 
-Chrome: Go to the address field and type "chrome://extensions."
+->Chrome: Go to the address field and type "chrome://extensions."
 
-Opera: Choose "Extensions," then select "Manage Extensions."
+->Opera: Choose "Extensions," then select "Manage Extensions."
 
-Firefox: Enter "about: addons" in the address field.
+->Firefox: Enter "about: addons" in the address field.
 
-Microsoft Edge: Select "Extensions" in your browser menu.
+->Microsoft Edge: Select "Extensions" in your browser menu.
 
-Internet Explorer: Go to the Tools menu and choose "Manage add-ons."
+->Internet Explorer: Go to the Tools menu and choose "Manage add-ons."
 
 How Keyloggers Attack Your Device
 
