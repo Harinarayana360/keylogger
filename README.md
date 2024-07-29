@@ -52,53 +52,53 @@ You can do the same form of investigation with browser extensions. If there are 
 
 # Here is how to access your extensions in some of the most common browsers: 
 
-->Safari: Choose "Preferences" in the Safari menu and click on "Extensions."
+ - Safari: Choose "Preferences" in the Safari menu and click on "Extensions."
 
-->Chrome: Go to the address field and type "chrome://extensions."
+- Chrome: Go to the address field and type "chrome://extensions."
 
-->Opera: Choose "Extensions," then select "Manage Extensions."
+- Opera: Choose "Extensions," then select "Manage Extensions."
 
-->Firefox: Enter "about: addons" in the address field.
+- Firefox: Enter "about: addons" in the address field.
 
-->Microsoft Edge: Select "Extensions" in your browser menu.
+- Microsoft Edge: Select "Extensions" in your browser menu.
 
-->Internet Explorer: Go to the Tools menu and choose "Manage add-ons."
+- Internet Explorer: Go to the Tools menu and choose "Manage add-ons."
 
 # How Keyloggers Attack Your Device
 
 To gain access to your device, a keylogger has to be installed inside it or, in the case of a hardware keylogger, physically connected to your computer. There are a few different ways keyloggers attack your device.
 
-## Spear phishing:
+## 1.Spear phishing:
 
 Spear phishing is one of the most prominent methods of initiating a malware infection. In most cases, a phishing email or link is used to target a consumer. The link looks legitimate—it may even appear to come from a relative or a friend. However, after you open the email or click on a link, a keylogger is installed on your device. Spear-fishing attacks may also be used to launch a sextortion attack.
 
-## Drive-by download:
+## 2.Drive-by download:
 
 Drive-by downloading refers to when a keylogger is installed on your computer without you knowing. This is often accomplished using a malicious website. When you visit the site, malware gets installed on your computer. It then works in the background, undetected, logging your keystrokes, then sending them to the attacker.
 
-## Trojan horse:
+## 3.Trojan horse:
 
 It is common for Trojan horses to have keyloggers bundled inside. A Trojan horse, similar to the one used in the Greek myth, appears to be benevolent. When the user opens it, malware containing a keylogger gets installed on their device. The malware, once installed, keeps track of the user's keystrokes and then reports them to a device accessed by the hacker.
 
-# Problems Caused by Keyloggers:
+## 4.Problems Caused by Keyloggers:
 
 In addition to compromising the security of your device, keyloggers can cause auxiliary issues on the device itself. The effects are somewhat different based on the type of device that has been infected.
 
-## Desktops and laptops:
+## 5.Desktops and laptops:
 
 Unknown processes consuming computing power
 Like all types of software, keyloggers need to initiate a process in order to work. Each process your computer has to execute requires processing power. A keylogger’s process, once initiated, can be a drain on your computing power. This may result in other applications not running the way they normally would or should. You can figure out which processes are running by pulling up the task manager, as described above in “How to Detect a Keylogger.”
 
-## Delays during typing:
+## 6.Delays during typing:
 
 Because a keylogger positions itself between the keyboard and the monitor, one sign of a keylogger may be a delay when you type. If you typically see letters, numbers, or symbols appear on your screen immediately after you hit each key but then you notice a slight delay, that could be a sign that a keylogger is interrupting the process. 
 In some cases, the delayed typing may be due to circumstances like not enough random access memory (RAM), but if you notice this symptom, it may be a good idea to check for keyloggers.
 
-## Applications freeze randomly:
+## 7.Applications freeze randomly:
 
 As a keylogger does its work, it may interrupt normal application processing. This can cause the application to freeze without warning. If your applications are freezing more than usual, a keylogger could be the culprit.
 
-## Androids and iPhones:
+## 8.Androids and iPhones:
 
 While there may not be any hardware keyloggers designed to attack mobile devices, Androids and iPhones can still be compromised by software keyloggers. These work by capturing where on the screen the user presses or taps, which allows the keylogger to see the virtual buttons pressed while the owner types. The data is then recorded and reported to a hacker. 
 The threat may be even worse with these forms of keyloggers because they do more than merely monitor and record keystrokes. They can also record screenshots, things picked up by the camera, the activity of connected printers, what goes into the microphone, and network traffic. A keylogger even has the ability to prevent you from going to certain websites.
@@ -106,12 +106,12 @@ To get a keylogger onto a mobile device, a hacker only needs to access it for a 
 
 # How to Protect My Devices from Keylogging:
 
-The best way to protect your devices from keylogging is to use a high-quality antivirus or firewall. You can also take other precautions to make an infection less likely. 
+- The best way to protect your devices from keylogging is to use a high-quality antivirus or firewall. You can also take other precautions to make an infection less likely. 
 
-You may use a password manager to generate highly complex passwords—in addition to enabling you to see and manage your passwords. In many cases, these programs are able to auto-fill your passwords, which allows you to bypass using the keyboard altogether. 
+- You may use a password manager to generate highly complex passwords—in addition to enabling you to see and manage your passwords. In many cases, these programs are able to auto-fill your passwords, which allows you to bypass using the keyboard altogether. 
 
-If you are not typing, a keylogger cannot record any strokes, and since password characters are usually replaced by asterisks, even a video surveillance system would not be able to figure out what was entered. In addition, use multi-factor authentication (MFA) when you have the option. A keylogger may deduce your password, but  the second phase of the authentication process may deter them. 
+- If you are not typing, a keylogger cannot record any strokes, and since password characters are usually replaced by asterisks, even a video surveillance system would not be able to figure out what was entered. In addition, use multi-factor authentication (MFA) when you have the option. A keylogger may deduce your password, but  the second phase of the authentication process may deter them. 
 
-A virtual keyboard can also help prevent keyloggers from accessing your keystrokes. Even a hypervisor-based keylogger, which uses a separate operating system running underneath your main one, cannot access keystrokes performed on a virtual keyboard. On a Windows computer, you can press the Windows key and “R” at the same time to access its virtual keyboard. 
+- A virtual keyboard can also help prevent keyloggers from accessing your keystrokes. Even a hypervisor-based keylogger, which uses a separate operating system running underneath your main one, cannot access keystrokes performed on a virtual keyboard. On a Windows computer, you can press the Windows key and “R” at the same time to access its virtual keyboard. 
 
-It is also a good idea to periodically check the hardware connections on your computer. While hardware keyloggers are not as common, the back of a PC’s tower may be an inviting attack surface for a keylogging hacker. This is also true when working on a public computer. The attacker may have installed a hardware keylogger days or weeks before you log in to your bank, brokerage, or email accounts.
+- It is also a good idea to periodically check the hardware connections on your computer. While hardware keyloggers are not as common, the back of a PC’s tower may be an inviting attack surface for a keylogging hacker. This is also true when working on a public computer. The attacker may have installed a hardware keylogger days or weeks before you log in to your bank, brokerage, or email accounts.
